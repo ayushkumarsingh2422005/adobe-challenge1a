@@ -1,0 +1,20 @@
+{
+    "title": "Application form for grant of LTC advance",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "S.No  Name Age Relationship 1. 2. 3. 4. 11. 5. 6. 12.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Amount of advance required.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Date  Signature of Government Servant.",
+            "page": 1
+        }
+    ]
+}
